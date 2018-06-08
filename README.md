@@ -1,5 +1,5 @@
 # Self Adversarial Training for Human Pose Estimation
-
+#GAN来对关节进行建模的方法
 Chia-Jung Chou, Jui-Ting Chien, Hwann-Tzong Chen, Self Adversarial Training for Human Pose Estimation, [arXiv:1707.02439](https://arxiv.org/abs/1707.02439)
 
 ## Prerequisites
